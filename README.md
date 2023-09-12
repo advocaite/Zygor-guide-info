@@ -20,9 +20,13 @@ Is this now awesome
 confirm begin
 ]])
 ```
+
+
 Save Location: *Interface\AddOns\ZygorGuidesViewerClassic\Guides-Classic\Includes\General*
 
+
 Suggested Name:**A_Custom_guide_01.lua** or **H_Custom_guide_01.lua** **A= Alliance H= Horde**
+
 
 open *Interface\AddOns\ZygorGuidesViewerClassic\Guides-Classic\Autoload.xml*
 
