@@ -60,4 +60,4 @@ confirm begin
 ]])
 ```
 
-
+[a relative link](GuideFunctions.MD)
