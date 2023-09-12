@@ -1,0 +1,36 @@
+## Guide Functions 
+
+Each part of your guide is seperated by steps like so
+
+```
+step
+do something
+step
+do another thing
+```
+
+**Adding Labels**
+
+```
+label "Name_of_Label"
+```
+
+**Adding Tips**
+
+```
+|tip this is a awesome tip very important information
+```
+
+**Quest Functions**
+***accept***
+```
+Format: accept Quest Name##QUESTID 
+Example: accept Rude Awakening##363
+With Goto cords :accept Rude Awakening##363 |goto 30.84,66.20
+```
+***turnin***
+```
+Format: turnin Quest Name##QUESTID 
+Example: turnin Rude Awakening##363
+With Goto cords :turnin Rude Awakening##363 |goto 30.84,66.20
+```
