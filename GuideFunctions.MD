@@ -23,6 +23,12 @@ label "Name_of_Label"
 
 **Quest Functions**
 
+***talk***
+   *tells user to talk to npc the number after ## is the npc id*
+```
+talk Shadow Priest Sarvis##1569
+```
+
 ***accept***
 
 ```
