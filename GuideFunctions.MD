@@ -22,13 +22,17 @@ label "Name_of_Label"
 ```
 
 **Quest Functions**
+
 ***accept***
+
 ```
 Format: accept Quest Name##QUESTID 
 Example: accept Rude Awakening##363
 With Goto cords :accept Rude Awakening##363 |goto 30.84,66.20
 ```
+
 ***turnin***
+
 ```
 Format: turnin Quest Name##QUESTID 
 Example: turnin Rude Awakening##363
