@@ -60,4 +60,6 @@ confirm begin
 ]])
 ```
 
-[a relative link](GuideFunctions.MD)
+## More Information
+[Guide Functions](GuideFunctions.MD)
+
