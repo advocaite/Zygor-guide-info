@@ -8,6 +8,14 @@ do something
 step
 do another thing
 ```
+**Popup textbox**
+
+*Ending text with ##Window Title Text will allow custom titles*
+```
+Format: **popuptext text##WindowTitle**
+Example:
+Click Here to see youtube video |popuptext https:\\youtu.be/sdsdsds##Example Video
+```
 
 **Adding Labels**
 
