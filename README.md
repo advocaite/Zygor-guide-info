@@ -1,4 +1,4 @@
-## how to create a guide
+## How to create a guide
 first you need to reister a guide here is a template for you
 ```local ZygorGuidesViewer = ZygorGuidesViewer
 if not ZygorGuidesViewer then return end
